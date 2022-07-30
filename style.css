@@ -1,0 +1,14 @@
+label{
+    color: aquamarine;
+    font-size:40px
+}
+
+body{
+    background-color: darkseagreen;
+}
+
+#output{
+    width:340px;
+    height:300px;
+    border: solid black ;
+}
